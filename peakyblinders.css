@@ -1,0 +1,14 @@
+.logo {
+    width: 10rem;
+}
+.navbar {
+    background: black;
+}
+.nav-link {
+    color: #fff;
+    font-size: 1.3rem;
+    font-family: 'Lora', serif;
+}
+.navbar-toggler-icon {
+    background-image: url(/images/toggle-icon.png);
+}
