@@ -2,7 +2,7 @@
     width: 10rem;
 }
 .navbar {
-    background: black;
+    background: #000000;
 }
 .nav-link {
     color: #fff;
@@ -11,4 +11,44 @@
 }
 .navbar-toggler-icon {
     background-image: url(/images/toggle-icon.png);
+}
+.row {
+    height: 45vw;
+}
+.logo-container {
+    position: relative;
+    width: 100vw;
+    text-align: center;
+    top: 7vw;
+}
+.sub-heading {
+    color: #fff;
+    font-family: 'Lora', serif;
+    font-size: 1.5vw;
+    position: relative;
+}
+.content-container {
+    position: relative;
+    width: 100vw;
+    text-align: center;
+    top: 20vw;
+}
+.heading {
+    font-size: 5vw;
+    color: #fff;
+    font-family: 'Lora', serif;
+}
+.divider {
+    background: #fff;
+    width: 25vw;
+    height: 0.1vw;
+}
+.about-season {
+    background: #161626;
+    color: white;
+    font-family: 'Lora', serif;
+    font-size: 0.8vw;
+    padding-left: 15vw;
+    padding-top: 3vw;
+    padding-bottom: 2vw;
 }
