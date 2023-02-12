@@ -1,6 +1,7 @@
 html {
     background: #161626;
     scroll-behavior: smooth;
+    overflow-x: hidden;
 }
 .logo {
     width: 10rem;
