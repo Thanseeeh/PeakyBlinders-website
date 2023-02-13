@@ -15,7 +15,7 @@ html {
     font-family: 'Lora', serif;
 }
 .navbar-toggler-icon {
-    background-image: url(/images/toggle-icon.png);
+    background-image: url(toggle-icon.png);
 }
 .row {
     height: 45vw;
